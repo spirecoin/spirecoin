@@ -1,0 +1,4 @@
+spirecoin
+=========
+
+spirecoin
